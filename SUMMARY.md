@@ -4,7 +4,6 @@
    * [ติดตั้ง Arduino IDE กับ ESP8266](esp8266-getting-started-setup-and-flash.md)
    * [ติดตั้ง Library และ โปรแกรมตัวอย่าง](install-example-and-library.md)
    * [การ flash โปรแกรมลงบน ESP8266 (ใช้บอร์ด ESPresso Lite V2.0)](02__flash___esp8266__espresso_lite_v20.md)
-* [การเชื่อมต่อ WiFi ด้วย ESP8266](esp8266-connecting-wifi.md)
 * [ระบบไฟล์ (File System)](file_system.md)
 * [การสร้าง Mobile Application เพื่อติดต่อกับ ESP8266](mobile_application__esp8266.md)
    * [Native Mobile Application](native_mobile_application.md)
