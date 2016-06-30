@@ -1,6 +1,6 @@
 # การติดตั้งโปรแกรมพัฒนา Arduino IDE และ ESP8266 SDK
 
-
+การเริ่มต้นพัฒนาระบบ IoT บน Arduino IDE สามารถทำได้ตามขั้นตอนดังต่อไปนี้
 
   * [เริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE](README.md)
   * [ติดตั้ง Arduino IDE กับ ESP8266](esp8266-getting-started-setup-and-flash.md)
