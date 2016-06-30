@@ -1,8 +1,6 @@
 # Summary
 
 
-
-
 * [โครงการอบรมเชิงปฏิบัติเรียนรู้และพัฒนาอินเทอร์เน็ตในทุกสิ่ง (IoT)" (NECTEC IoT Camp 2016)](iot_nectec_iot_camp_2016.md)
   * [การติดตั้งโปรแกรมพัฒนา Arduino IDE และ ESP8266 SDK](introducton.md)
     * [เริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE](README.md)
