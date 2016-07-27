@@ -17,7 +17,7 @@
             "caption": "_CAPTION_"
         },
         "page-footer": {
-            "isShowIssues": true,
+            "isShowIssues": false,
             "wisdom": "Made with <3 by CMMC",
             "copyright": "Copyright &#169; Chiang Mai Maker Club",
             "style": "normal",
