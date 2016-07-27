@@ -4,4 +4,5 @@ Thingspeak เป็น Platform as a Services ที่ให้บริกา
 
 **ขั้นตอนการใช้งาน Thingspeak**
 
-1. [การติดตั้งโปรแกรมพัฒนา Arduino IDE และ ESP8266 SDK](https://thingspeak.com)
+1. [ทำการสมัคร และเข้าสู่ระบบเพื่อใช้งาน Thingspeak](https://thingspeak.com)
+2. เลือก Channels --> My Channels
