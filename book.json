@@ -27,7 +27,7 @@
          "isShowQRCode":true,
          "baseUri":"https://cmmc.io",
          "isShowIssues":true,
-         "repo":"cmmc/iot-camp",
+         "repo":"cmmakerclub/cmmc-iot-camp-book",
          "token":"",
          "style":"normal"
      }
