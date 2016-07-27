@@ -6,7 +6,8 @@
         "json",
         "video",
         "-highlight",
-        "layout"
+        "layout",
+        "page-footer"
     ],
     "pluginsConfig": {
         "ga": {
@@ -16,24 +17,24 @@
             "caption": "_CAPTION_"
         },
         "page-footer": {
-            "isShowIssues": true,
-            "wisdom": "More than a coder, more than a designer",
-            "copyright": "Copyright &#169; CMMC",
+            "isShowIssues": false,
+            "wisdom": "Made with love by CMMC",
+            "copyright": "Copyright &#169; Chiang Mai Maker Club",
             "style": "normal",
             "repo": "cmmakerclub/cmmc-iot-camp-book",
-            "isShowQRCode": true,
+            "isShowQRCode": false,
             "timeColor": "#666",
-            "utcOffset": "8",
+            "utcOffset": "7",
             "format": "yyyy-MM-dd hh:mm:ss",
-            "signature": "Nat",
+            "signature": "Chiang Mai Maker Club",
             "token": "",
             "baseUri": "https://cmmc.io",
             "copyrightColor": "#666",
             "description": "modified at"
         },
-         "layout": {
-             "headerPath" : "layouts/header.html",
-             "footerPath" : "layouts/footer.html"
-         }
+        "layout": {
+            "headerPath": "layouts/header.html",
+            "footerPath": "layouts/footer.html"
+        }
     }
 }
