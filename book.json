@@ -5,16 +5,17 @@
         "image-captions",
         "json",
         "video",
-        "-highlight",
+        "highlight",
+        "page-footer",
         "layout",
-        "page-footer"
+        "youtube"
     ],
     "pluginsConfig": {
         "ga": {
-            "token": "UA-XXXX-Y"
+            "token": "UA-53466330-6"
         },
         "image-captions": {
-            "caption": "_CAPTION_"
+            "caption": "Image - _CAPTION_"
         },
         "page-footer": {
             "isShowIssues": false,
@@ -24,17 +25,22 @@
             "repo": "cmmakerclub/cmmc-iot-camp-book",
             "isShowQRCode": false,
             "timeColor": "#666",
-            "utcOffset": "7",
+            "utcOffset": "+7",
             "format": "yyyy-MM-dd hh:mm:ss",
             "signature": "Chiang Mai Maker Club",
             "token": "",
-            "baseUri": "https://nazt-cmmc.gitbooks.io/nectec-iot-camp/",
+            "baseUri": "http://iot-camp.books.cmmc.io",
             "copyrightColor": "#666",
             "description": "modified at"
         },
         "layout": {
-            "headerPath": "layouts/header.html",
-            "footerPath": "layouts/footer.html"
+            "headerPath": "./layouts/header.html",
+            "footerPath": "./layouts/footer.html"
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
         }
     }
 }
