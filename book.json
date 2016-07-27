@@ -18,8 +18,8 @@
         },
         "page-footer": {
             "isShowIssues": true,
-            "wisdom": "More than a coder, more than a designer",
-            "copyright": "Copyright &#169; CMMC",
+            "wisdom": "Made with <3 by CMMC",
+            "copyright": "Copyright &#169; Chiang Mai Maker Club",
             "style": "normal",
             "repo": "cmmakerclub/cmmc-iot-camp-book",
             "isShowQRCode": true,
