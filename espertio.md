@@ -14,10 +14,10 @@ ESPert.io คือ เว็บเซอร์วิซสำหรับส่
   ![หน้าจอแสดงฟอร์มสมัครสมาชิก](regisespert3.png)
 
 4. เมื่อกด Register จะแสดงหน้าจอให้ยืนยันในอีเมล์
-  ![](regisespert4.png)
+  ![register](regisespert4.png)
 
 5. ให้ทำการเข้าไปยืนยันในอีเมล์ที่เราได้สมัครเอาไว้
-  ![](regisespert5.png)
+  ![confirm email](regisespert5.png)
 
 6. เมื่อยืนยันเรียบร้อยจะกลับมายังเว็บ espert.io เพื่อแสดงการยืนยันการสมัคร
   ![](regisespert6.png)
