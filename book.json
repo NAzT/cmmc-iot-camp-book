@@ -29,7 +29,7 @@
             "format": "yyyy-MM-dd hh:mm:ss",
             "signature": "Chiang Mai Maker Club",
             "token": "",
-            "baseUri": "https://nazt-cmmc.gitbooks.io/nectec-iot-camp/",
+            "baseUri": "http://iot-camp.books.cmmc.io",
             "copyrightColor": "#666",
             "description": "modified at"
         },
