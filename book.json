@@ -11,7 +11,7 @@
     ],
     "pluginsConfig": {
         "ga": {
-            "token": "UA-XXXX-Y"
+            "token": "UA-53466330-6"
         },
         "image-captions": {
             "caption": "_CAPTION_"
