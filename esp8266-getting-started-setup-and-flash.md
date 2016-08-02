@@ -72,11 +72,11 @@
 
  ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 
-2.ESPresso Lite 1.0 และ 2.0 ![ESPresso Lite V1](images/introduction13.png)
+2. ESPresso Lite 1.0 และ 2.0 ![ESPresso Lite V1](images/introduction13.png)
 ![ESPresso Lite V2](images/introduction14.JPG)
 
 
-3.NodeMCU
+3. NodeMCU
 ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
 
 4.WeMos
