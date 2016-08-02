@@ -28,7 +28,7 @@
             "utcOffset": "7",
             "format": "yyyy-MM-dd hh:mm:ss",
             "signature": "Chiang Mai Maker Club",
-            "token": "",de
+            "token": "",
             "baseUri": "http://iot-camp.books.cmmc.io",
             "copyrightColor": "#666",
             "description": "modified at"
