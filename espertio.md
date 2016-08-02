@@ -32,7 +32,7 @@ ESPert.io คือ เว็บเซอร์วิซสำหรับส่
   ![](regisespert10.jpg)
 
 11. ทำการติดตั้ง Application
-  ![](regisespert11.jpg)
+  ![หน้าจอ application](regisespert11.jpg)
 
 12. เมื่อติดตั้งเสร็จให้เปิด Application ขึ้นมา
   ![](regisespert12.jpg)
