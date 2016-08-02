@@ -20,7 +20,7 @@ ESPert.io คือ เว็บเซอร์วิซสำหรับส่
   ![confirm email](regisespert5.png)
 
 6. เมื่อยืนยันเรียบร้อยจะกลับมายังเว็บ espert.io เพื่อแสดงการยืนยันการสมัคร
-  ![](regisespert6.png)
+  ![espert.io](regisespert6.png)
 
 7. ให้ทำการเข้าระบบด้วยการใส่ E-mail และ Password ที่เราได้สมัครเอาไว้
   ![](regisespert7.png)
