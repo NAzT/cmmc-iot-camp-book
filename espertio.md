@@ -7,7 +7,7 @@ ESPert.io คือ เว็บเซอร์วิซสำหรับส่
 ![](regisespert1.png)
 2. ลงทะเบียนเข้าใช้งานโดยคลิ๊กที่ปุ่ม Click here to register
 
-![](regisespert2.png)
+![หน้าจอลงทะเบียน](regisespert2.png)
 
 3. ทำการกรอกข้อมูลพื้นฐานให้ครบทุกช่อง 
   ![หน้าจอแสดงฟอร์มสมัครสมาชิก](regisespert3.png)
