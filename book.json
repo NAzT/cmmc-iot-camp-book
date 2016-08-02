@@ -15,7 +15,7 @@
             "token": "UA-53466330-6"
         },
         "image-captions": {
-            "caption": "_CAPTION_"
+            "caption": "Image - _CAPTION_"
         },
         "page-footer": {
             "isShowIssues": false,
@@ -25,7 +25,7 @@
             "repo": "cmmakerclub/cmmc-iot-camp-book",
             "isShowQRCode": false,
             "timeColor": "#666",
-            "utcOffset": "7",
+            "utcOffset": "+7",
             "format": "yyyy-MM-dd hh:mm:ss",
             "signature": "Chiang Mai Maker Club",
             "token": "",
