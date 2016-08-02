@@ -6,8 +6,9 @@
         "json",
         "video",
         "-highlight",
+        "page-footer",
         "layout",
-        "page-footer"
+        "youtube"
     ],
     "pluginsConfig": {
         "ga": {
@@ -35,6 +36,15 @@
         "layout": {
             "headerPath": "layouts/header.html",
             "footerPath": "layouts/footer.html"
+        },
+        "theme-default": {
+            "styles": "",
+            "showLevel": true
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
         }
     }
 }
